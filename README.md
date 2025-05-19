@@ -18,6 +18,9 @@ To analyze and visualize customer credit behavior and predict churn risk using P
 ## 📷 Power BI Dashboard
 Screenshots of key visuals included.
 
+## Dashboard Screenshot
+![System Diagram](Dashboard_Screenshot.png)
+
 ## 📄 Business Outcomes
 - Identified risk factors like high utilization & inactivity.
 - Recommended retention strategies using data signals.
